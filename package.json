@@ -1,0 +1,23 @@
+{
+  "name": "graduate_exercise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EurostarDigital/graduate_exercise.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EurostarDigital/graduate_exercise/issues"
+  },
+  "homepage": "https://github.com/EurostarDigital/graduate_exercise#readme",
+  "dependencies": {
+    "express": "4.16.4",
+    "nodemon": "1.19.0"
+  }
+}
