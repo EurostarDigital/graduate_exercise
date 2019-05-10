@@ -19,7 +19,7 @@ Now that you’re setup, you will need to complete a few tasks - the core functi
 
 Whilst you have been provided with a blank HTML page which loads a CSS and Javascript file, you are able to change all parts of the existing code, as long as we complete the following tasks:
 
-- Load and display the _todo_ items from http://localhost:3000/api/todos ordering them on their ID in descending order
+- Load and display the _todo_ items `title` from http://localhost:3000/api/todos ordering them on their ID in descending order
 - Display the total number of _todo_ items
 - Display the completed number of _todo_ items
 - Add styling
