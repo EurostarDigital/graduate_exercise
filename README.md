@@ -15,7 +15,7 @@ If you open your browser and point it to that URL, you should see a blank HMTL.
 
 ## Tasks
 
-Now that you’re setup, you will need to complete a few tasks - the core functionality of the application is to display information around _todo_ tasks. It is required to complete the following tasks using React.
+Now that you’re setup, you will need to complete a few tasks - the core functionality of the application is to display information around _todo_ tasks. It is required to complete the following tasks using React.js.
 
 Whilst you have been provided with a blank HTML page which loads a CSS and Javascript file, you are able to change all parts of the existing code, as long as we complete the following tasks:
 
