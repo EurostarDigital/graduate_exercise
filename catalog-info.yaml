@@ -1,0 +1,20 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: graduate_exercise
+  title: graduate_exercise
+  description: Missing description in repo
+  links:
+    - url: https://eurostar.slack.com/archives/C910RBMED
+      icon: slack
+      type: slack
+      title: "#team-developers"
+  annotations:
+    github.com/project-slug: EurostarDigital/graduate_exercise
+    grafana/tag-selector: graduate_exercise
+    circleci.com/project-slug: github/EurostarDigital/graduate_exercise
+
+spec:
+  type: service
+  lifecycle: production
+  owner: group:eurostardigital/developers
